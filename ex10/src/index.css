@@ -1,0 +1,15 @@
+body {
+    display: flex;
+}
+
+#navbar {
+    display: flexbox;
+    max-width: 35em;
+    flex-grow: 1;
+}
+#header-img {
+    width: 300px;
+}
+#main_doc {
+    border-left: 2px solid black;
+}
